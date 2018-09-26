@@ -10,4 +10,4 @@ Personal resources to automate things. Codes for various works found from differ
 ### List of Scripts:
 
 
-## Anyone is free to use these resources. Thank you.
+## Anyone is free to use/share/modify these resources. Thank you.
